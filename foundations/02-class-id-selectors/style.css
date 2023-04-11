@@ -3,7 +3,7 @@ p.pink {
     font-family: Verdana, DejaVu Sans sans-serif;
 }
 
-p.pink.three {
+.font-size{
     font-size: 24px;
 }
 
@@ -12,8 +12,7 @@ p.pink.three {
    font-size: 36px;
 }
 
-#green {
+#green{
     background-color: rgb(84, 216, 84);
-    font-size: 24px;
     font-weight: bold;
 }
